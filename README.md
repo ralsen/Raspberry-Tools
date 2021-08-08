@@ -7,7 +7,7 @@ Currently you will find this bash tools
 * lsd.sh - gives an overview of the attached drivec and additionl info, useful for bksdx.sh
 * makeapi.sh - with this tool you can setup a another PI if you have one to run this script
 
-## additional files you need
+## additional files you need for makeapi.sh
 to setup a Samba server
 * installSambaServer.sh, smb.conf
 
